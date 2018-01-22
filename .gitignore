@@ -32,7 +32,11 @@
 **/*.app
 
 # Directories
-**/.idea
+**/.idea/
+**/tmp/
+**/bin/
+*.test
+*.swp
 **/cmake-build-debug
 
 # For OSX
