@@ -1,6 +1,8 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    int a,b,c,d;
+    std::cin >>a>>b>>c>>d;
+    std::cout << (a*b>c*d? a*b:c*d) << std::endl;
     return 0;
 }
