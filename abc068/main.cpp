@@ -1,6 +1,8 @@
-#include <iostream>
+#include <bits/stdc++.h>
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    std::string s;
+    std::cin >> s;
+    std::cout << "ABC" << s << std::endl;
     return 0;
 }
