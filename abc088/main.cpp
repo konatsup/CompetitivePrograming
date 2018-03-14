@@ -1,8 +1,3 @@
 #include <iostream>
-
-int main() {
-    int n,a;
-    std::cin >> n>>a;
-    std::cout << ((n%500 <= a)?"Yes":"No") << std::endl;
-    return 0;
-}
+int n,a;
+int main() {    std::cin >> n>>a; std::cout << ((n%500 <= a)?"Yes":"No") << std::endl;}
