@@ -1,7 +1,8 @@
 #include <iostream>
 
 int main() {
-
-    std::cout << "Hello, World!" << std::endl;
+    int n,a;
+    std::cin >> n>>a;
+    std::cout << ((n%500 <= a)?"Yes":"No") << std::endl;
     return 0;
 }
