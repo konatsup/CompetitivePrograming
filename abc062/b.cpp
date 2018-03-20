@@ -12,7 +12,7 @@ int main(){
 	}
 	cout<<endl;
 	for(int i=0;i<h;i++){
-	    cout<<"#"<<a[i][0]<<"#"<<endl;
+	    cout<<"#"<<a[i]<<"#"<<endl;
 	}
 	for(int i=0;i<w+2;i++){
 	    cout<<"#";
