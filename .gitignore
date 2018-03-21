@@ -38,7 +38,7 @@
 *.test
 *.swp
 **/cmake-build-debug
-**/paiza/
+/paiza/
 
 
 # For OSX
