@@ -38,6 +38,8 @@
 *.test
 *.swp
 **/cmake-build-debug
+**/paiza/
+
 
 # For OSX
 **/.DS_Store
