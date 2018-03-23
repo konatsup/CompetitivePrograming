@@ -22,12 +22,12 @@ int main(){
             
         }
         if(flg==false){
-            cout << "No" << endl;
+            cout << "NO" << endl;
             return 0;
         }
     }
     
-    cout << "Yes"<< endl;
+    cout << "YES"<< endl;
     
     
     return 0;
